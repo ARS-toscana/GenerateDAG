@@ -1,6 +1,3 @@
-# Load parameters
-source("p_parameters/parameter_file.R")
-
 # Create/update DAG
 generate_DAG()
 
